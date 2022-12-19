@@ -1,0 +1,11 @@
+{
+    "ses_pk": {"S": "fff@qq.com"},
+    "ses_sk": {"S": "010001850f778974-bf04795b-1a00-473a-9332-da576ab704aa-000000#2022-12-16 12:00"},
+    "message_id": {"S": "010001850f778974-bf04795b-1a00-473a-9332-da576ab704aa-000000"},
+    "send_time": {"S": "2022-12-16 12:00"},
+    "status": {"S": "success"},
+    "template_id": {"S": "wsddsfd"},
+    "from": {"S": "fff@qq.com"},
+    "to": {"S": "ttt@qq.com"},
+    "s3_key": {"S": "ses-stores/10-10-222/333@qq.com/asd/"}
+}
